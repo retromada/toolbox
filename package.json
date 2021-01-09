@@ -1,0 +1,14 @@
+{
+  "name": "@retromada/toolbox",
+  "version": "0.0.1",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "node retromada.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/retromada/toolbox.git"
+  },
+  "author": "retromada",
+  "license": "MIT"
+}
